@@ -162,7 +162,7 @@ TextureImporter:
       213: 2493190869041461674
     second: 5_Clover
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -179,10 +179,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -221,6 +223,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -232,6 +236,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -244,6 +249,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -256,6 +262,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -268,6 +275,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1396,9 +1417,62 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      10_Clover: 609740418975469939
+      10_Diamond: 8986266011952947351
+      10_Heart: 6036155993108107183
+      10_Spade: -6769186063334272391
+      11_Clover: 2244220346496085745
+      11_Diamond: 3830633340428185749
+      11_Heart: 597003915940546919
+      11_Spade: 3850180587550573382
+      12_Clover: -1545589869607713014
+      12_Diamond: -4953792408971915993
+      12_Heart: 3443126084330352417
+      12_Spade: -3108102147801731531
+      13_Clover: 3559610566736648697
+      13_Diamond: 1199609778217777201
+      13_Heart: -3439960041541717610
+      13_Spade: -8406509737386156594
+      1_Clover: 8246896446169595055
+      1_Diamond: -2012651394533843531
+      1_Heart: -7664508113980074588
+      1_Spade: -8339798674793280666
+      2_Clover: -8182927317889646092
+      2_Diamond: 2643091180389808252
+      2_Heart: -7037732775440339377
+      2_Spade: 7450314346910242059
+      3_Clover: 4465712807344052035
+      3_Diamond: 5564131869316276354
+      3_Heart: 7721872005134441551
+      3_Spade: 2887856317421252638
+      4_Clover: -4894194661131659985
+      4_Diamond: 3099156326043948570
+      4_Heart: -4445314725687963750
+      4_Spade: -2880894646473429144
+      5_Clover: 2493190869041461674
+      5_Diamond: 5748669463199120301
+      5_Heart: -6243342052810636700
+      5_Spade: 980765864027529375
+      6_Clover: 4313810329536373301
+      6_Diamond: 7579434691974903054
+      6_Heart: 7827672593897444612
+      6_Spade: -2524535844195008582
+      7_Clover: -7572842206472098368
+      7_Diamond: -4075292966200123688
+      7_Heart: -4566478465753567637
+      7_Spade: -6672964933165265531
+      8_Clover: -3599046957240696501
+      8_Diamond: 593577864982628094
+      8_Heart: 3415645879610439534
+      8_Spade: -8083086716567348819
+      9_Clover: -5884797810683999104
+      9_Diamond: 8376972550537868367
+      9_Heart: 8597593517999297906
+      9_Spade: 2088305130326485639
+      playingCards_19: 2233232159462155090
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
